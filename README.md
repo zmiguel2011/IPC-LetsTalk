@@ -14,8 +14,8 @@ Team:
 This course focused in the User Interaction (UI) and Experience design (UX), as well as performing User studies.
 
 The project was divided in three incremental phases:
-1. User and Task Analysis -> [Presentation](phase1/ipc-phase1-T09-G4-LetsTalk-presentation.pdf) [Report](phase1/ipc-phase1-T09-G4-LetsTalk-report.pdf)
-2. First Prototype and Heuristic Evaluation -> [Presentation](phase2/ipc-phase2-T09-G4-LetsTalk-presentation.pdf) [Report](phase2/ipc-phase2-T09-G4-LetsTalk-report.pdf)
-3. Second Prototype and User Evaluation -> [Presentation](phase3/ipc-phase3-T09-G4-LetsTalk-presentation.pdf) [Report](phase3/ipc-phase3-T09-G4-LetsTalk-report.pdf)
+1. User and Task Analysis -> [Presentation](phase1/ipc-phase1-T09-G4-LetsTalk-presentation.pdf) [Report](phase1/ipc-phase1-T09-G4-LetsTalk-report.pdf) - **Grade -> 17,7**
+2. First Prototype and Heuristic Evaluation -> [Presentation](phase2/ipc-phase2-T09-G4-LetsTalk-presentation.pdf) [Report](phase2/ipc-phase2-T09-G4-LetsTalk-report.pdf) - **Grade -> 18,7**
+3. Second Prototype and User Evaluation -> [Presentation](phase3/ipc-phase3-T09-G4-LetsTalk-presentation.pdf) [Report](phase3/ipc-phase3-T09-G4-LetsTalk-report.pdf) - **Grade -> 19,8**
 
 View the final Figma Prototype [here](https://www.figma.com/proto/SiLxeSi9Kf7npAZHBuv60A/IPC---Let's-Talk-Prototype?type=design&node-id=1-871&t=BNK6f6ZpRqrrNjMo-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A831).
